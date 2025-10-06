@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Thamezz BlueMap</title>
   <meta name="description" content="Live Minecraft map powered by BlueMap" />
+  <link rel="icon" href="assets/favicon.ico" />
   <link rel="stylesheet" href="assets/index.css" />
   <script type="module">
     import { BlueMapApp } from './assets/index.js';
@@ -17,14 +18,14 @@
     app.load().catch(err => {
       console.error("Failed to load BlueMap webapp:", err);
       document.getElementById('app').innerHTML = `
-        <div style="color: red; font-size: 1.2em;">
-          Failed to load map. Check console for details.
+        <div style="color: red; font-size: 1.2em; padding: 20px;">
+          ❌ Failed to load map. Check your folder structure or console for details.
         </div>
       `;
     });
   </script>
 </head>
-<body>
+<body style="margin:0; padding:0; overflow:hidden;">
   <noscript>
     <strong>BlueMap requires JavaScript to run.</strong><br />
     Please enable JavaScript and reload the page.
