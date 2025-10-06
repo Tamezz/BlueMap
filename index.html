@@ -9,23 +9,7 @@
   <link rel="icon" href="./assets/favicon-DEN7TZ5X.png" />
   <link rel="manifest" href="./assets/manifest-vz4Wm4Dd.webmanifest" />
   <link rel="stylesheet" href="./assets/index-BgiqB2rB.css" />
-  <script type="module">
-    import { BlueMapApp } from './assets/index-ZbCQNBFs.js';
-
-    const app = new BlueMapApp({
-      container: document.getElementById('app'),
-      settingsUrl: 'BlueMaps/overworld/settings.json'
-    });
-
-    app.load().catch(err => {
-      console.error("❌ BlueMap failed to load:", err);
-      document.getElementById('app').innerHTML = `
-        <div style="color: red; font-size: 1.2em; padding: 20px;">
-          ❌ Failed to load map. Check your folder structure or console for details.
-        </div>
-      `;
-    });
-  </script>
+  <script type="module" src="./assets/index-ZbCQNBFs.js"></script>
 </head>
 <body style="margin:0; padding:0; overflow:hidden;">
   <noscript>
