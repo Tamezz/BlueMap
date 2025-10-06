@@ -1,19 +1,22 @@
 {
-  "map": "overworld",
-  "tilePath": "tiles/{lod}/x{x}/z{z}.png",
-  "minZoom": 0,
-  "maxZoom": 4,
-  "startPos": {
-    "x": 0,
-    "y": 64,
-    "z": 0
+  "name": "Overworld",
+  "sorting": 0,
+  "hires": {
+    "tileSize": [1920, 1080],
+    "scale": [1, 1],
+    "translate": [0, 0]
   },
-  "startRotation": 0,
-  "skyColor": "#87CEEB",
-  "ambientLight": 0.8,
-  "renderEdges": true,
-  "useCompression": false,
-  "texturePath": "textures.json",
-  "rStatePath": "rstate",
-  "livePath": "live"
+  "lowres": {
+    "tileSize": [960, 540],
+    "lodFactor": 2,
+    "lodCount": 4
+  },
+  "startPos": [0, 64],
+  "skyColor": [0.49, 0.67, 1.0, 1.0],
+  "voidColor": [0.0, 0.0, 0.0, 1.0],
+  "ambientLight": 0.4,
+  "skyLight": 1.0,
+  "perspectiveView": true,
+  "flatView": true,
+  "freeFlightView": true
 }
