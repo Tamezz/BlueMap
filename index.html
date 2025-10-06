@@ -9,7 +9,6 @@
   <link rel="icon" href="./assets/favicon-DEN7TZ5X.png" />
   <link rel="manifest" href="./assets/manifest-vz4Wm4Dd.webmanifest" />
   <link rel="stylesheet" href="./assets/index-BgiqB2rB.css" />
-  <script type="module" src="./assets/index-ZbCQNBFs.js"></script>
 </head>
 <body style="margin:0; padding:0; overflow:hidden;">
   <noscript>
@@ -17,8 +16,12 @@
       Please <a href="https://www.enable-javascript.com/">enable</a> it to continue.</strong>
   </noscript>
 
-  <!-- ✅ Required container for BlueMap -->
-  <div id="map-container" style="width: 100vw; height: 100vh;"></div>
+  <!-- ✅ Required containers for Vue and BlueMap -->
+  <div id="app-container">
+    <div id="app"></div>
+  </div>
 
+  <!-- ✅ Load BlueMap frontend bundle -->
+  <script type="module" src="./assets/index-ZbCQNBFs.js"></script>
 </body>
 </html>
