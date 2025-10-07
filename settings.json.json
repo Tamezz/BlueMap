@@ -13,8 +13,7 @@
   "lowresSliderDefault": 2000,
   "lowresSliderMin": 500,
   "mapDataRoot": "maps",
-  "useProgressiveLoading": false,
-  "maps": ["overworld"]
+  "maps": ["overworld"],
   "scripts": [],
   "styles": []
 }
