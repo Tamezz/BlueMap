@@ -1,0 +1,93 @@
+[2025-10-07 13:34:41][INFO] Loading resources...
+[2025-10-07 13:34:41][FINE] Loading resources from: data\resourceExtensions.zip ...
+[2025-10-07 13:34:41][FINE] Loading resources from: data\minecraft-client-1.21.9.jar ...
+[2025-10-07 13:34:42][FINE] Collecting texture-keys...
+[2025-10-07 13:34:42][FINE] Found 1182 texture-keys.
+[2025-10-07 13:34:42][FINE] Loading textures from: data\resourceExtensions.zip ...
+[2025-10-07 13:34:42][FINE] Loading textures from: data\minecraft-client-1.21.9.jar ...
+[2025-10-07 13:34:45][FINE] Baking resources...
+[2025-10-07 13:34:45][INFO] Resources loaded.
+[2025-10-07 13:34:45][FINE] Loading world world#minecraft:overworld ...
+[2025-10-07 13:34:45][FINE] Loading datapack...
+[2025-10-07 13:34:45][FINE] Loading datapack from: world\datapacks\bukkit ...
+[2025-10-07 13:34:45][FINE] Loading datapack from: data\resourceExtensions.zip ...
+[2025-10-07 13:34:45][FINE] Loading datapack from: data\minecraft-client-1.21.9.jar ...
+[2025-10-07 13:34:45][FINE] Baking datapack...
+[2025-10-07 13:34:45][FINE] Datapack loaded.
+[2025-10-07 13:34:45][INFO] Initializing Storage: 'file' (Type: 'bluemap:file')
+[2025-10-07 13:34:45][INFO] Loading map 'overworld'...
+[2025-10-07 13:34:45][FINE] Loading render-state for map 'overworld'
+[2025-10-07 13:34:45][FINE] Loading textures for map 'overworld'
+[2025-10-07 13:34:45][INFO] Start updating 1 maps ...
+[2025-10-07 13:34:55][INFO] updating map 'overworld': 1.751% (ETA: 9 minutes)
+[2025-10-07 13:35:05][INFO] updating map 'overworld': 3.069% (ETA: 12 minutes)
+[2025-10-07 13:35:15][INFO] updating map 'overworld': 3.207% (ETA: 48 minutes)
+[2025-10-07 13:35:25][INFO] updating map 'overworld': 5.536% (ETA: 44 minutes)
+[2025-10-07 13:35:35][INFO] updating map 'overworld': 6.323% (ETA: 37 minutes)
+[2025-10-07 13:35:45][INFO] updating map 'overworld': 6.469% (ETA: 49 minutes)
+[2025-10-07 13:35:55][INFO] updating map 'overworld': 6.669% (ETA: 55 minutes)
+[2025-10-07 13:36:05][INFO] updating map 'overworld': 6.788% (ETA: 1.3 hours)
+[2025-10-07 13:36:15][INFO] updating map 'overworld': 7.681% (ETA: 1.3 hours)
+[2025-10-07 13:36:25][INFO] updating map 'overworld': 9.213% (ETA: 1.2 hours)
+[2025-10-07 13:36:35][INFO] updating map 'overworld': 9.316% (ETA: 1.5 hours)
+[2025-10-07 13:36:45][INFO] updating map 'overworld': 9.438% (ETA: 1.6 hours)
+[2025-10-07 13:36:55][INFO] updating map 'overworld': 9.567% (ETA: 1.7 hours)
+[2025-10-07 13:37:05][INFO] updating map 'overworld': 11.733% (ETA: 1.4 hours)
+[2025-10-07 13:37:15][INFO] updating map 'overworld': 15.354% (ETA: 1.2 hours)
+[2025-10-07 13:37:25][INFO] updating map 'overworld': 15.566% (ETA: 1.4 hours)
+[2025-10-07 13:37:35][INFO] updating map 'overworld': 15.774% (ETA: 1.2 hours)
+[2025-10-07 13:37:45][INFO] updating map 'overworld': 15.949% (ETA: 1.1 hours)
+[2025-10-07 13:37:55][INFO] updating map 'overworld': 18.418% (ETA: 1.0 hours)
+[2025-10-07 13:38:05][INFO] updating map 'overworld': 20.069% (ETA: 47 minutes)
+[2025-10-07 13:38:15][INFO] updating map 'overworld': 20.648% (ETA: 50 minutes)
+[2025-10-07 13:38:25][INFO] updating map 'overworld': 20.875% (ETA: 48 minutes)
+[2025-10-07 13:38:35][INFO] updating map 'overworld': 21.736% (ETA: 40 minutes)
+[2025-10-07 13:38:45][INFO] updating map 'overworld': 24.068% (ETA: 34 minutes)
+[2025-10-07 13:38:55][INFO] updating map 'overworld': 24.317% (ETA: 30 minutes)
+[2025-10-07 13:39:05][INFO] updating map 'overworld': 26.773% (ETA: 33 minutes)
+[2025-10-07 13:39:15][INFO] updating map 'overworld': 26.929% (ETA: 42 minutes)
+[2025-10-07 13:39:25][INFO] updating map 'overworld': 27.904% (ETA: 35 minutes)
+[2025-10-07 13:39:35][INFO] updating map 'overworld': 30.394% (ETA: 32 minutes)
+[2025-10-07 13:39:45][INFO] updating map 'overworld': 31.652% (ETA: 34 minutes)
+[2025-10-07 13:39:55][INFO] updating map 'overworld': 31.781% (ETA: 37 minutes)
+[2025-10-07 13:40:05][INFO] updating map 'overworld': 32.65% (ETA: 41 minutes)
+[2025-10-07 13:40:15][INFO] updating map 'overworld': 35.191% (ETA: 36 minutes)
+[2025-10-07 13:40:25][INFO] updating map 'overworld': 35.413% (ETA: 37 minutes)
+[2025-10-07 13:40:35][INFO] updating map 'overworld': 35.648% (ETA: 43 minutes)
+[2025-10-07 13:40:45][INFO] updating map 'overworld': 37.872% (ETA: 40 minutes)
+[2025-10-07 13:40:55][INFO] updating map 'overworld': 38.052% (ETA: 38 minutes)
+[2025-10-07 13:41:05][INFO] updating map 'overworld': 40.223% (ETA: 34 minutes)
+[2025-10-07 13:41:15][INFO] updating map 'overworld': 40.582% (ETA: 38 minutes)
+[2025-10-07 13:41:25][INFO] updating map 'overworld': 40.804% (ETA: 39 minutes)
+[2025-10-07 13:41:35][INFO] updating map 'overworld': 41.039% (ETA: 38 minutes)
+[2025-10-07 13:41:45][INFO] updating map 'overworld': 42.835% (ETA: 35 minutes)
+[2025-10-07 13:41:55][INFO] updating map 'overworld': 43.128% (ETA: 32 minutes)
+[2025-10-07 13:42:05][INFO] updating map 'overworld': 43.393% (ETA: 33 minutes)
+[2025-10-07 13:42:15][INFO] updating map 'overworld': 44.452% (ETA: 31 minutes)
+[2025-10-07 13:42:25][INFO] updating map 'overworld': 45.308% (ETA: 26 minutes)
+[2025-10-07 13:42:35][INFO] updating map 'overworld': 45.545% (ETA: 26 minutes)
+[2025-10-07 13:42:45][INFO] updating map 'overworld': 45.72% (ETA: 33 minutes)
+[2025-10-07 13:42:55][INFO] updating map 'overworld': 51.37% (ETA: 26 minutes)
+[2025-10-07 13:43:05][INFO] updating map 'overworld': 53.475% (ETA: 22 minutes)
+[2025-10-07 13:43:15][INFO] updating map 'overworld': 56.705% (ETA: 17 minutes)
+[2025-10-07 13:43:25][INFO] updating map 'overworld': 59.31% (ETA: 16 minutes)
+[2025-10-07 13:43:35][INFO] updating map 'overworld': 62.194% (ETA: 13 minutes)
+[2025-10-07 13:43:45][INFO] updating map 'overworld': 71.674% (ETA: 5 minutes)
+[2025-10-07 13:43:55][INFO] updating map 'overworld': 77.366% (ETA: 4 minutes)
+[2025-10-07 13:44:05][INFO] updating map 'overworld': 80.631% (ETA: 4 minutes)
+[2025-10-07 13:44:15][INFO] updating map 'overworld': 84.775% (ETA: 3 minutes)
+[2025-10-07 13:44:25][INFO] updating map 'overworld': 86.719% (ETA: 2 minutes)
+[2025-10-07 13:44:35][INFO] updating map 'overworld': 87.921% (ETA: 1.5 minutes)
+[2025-10-07 13:44:45][INFO] updating map 'overworld': 90.951% (ETA: 1.1 minutes)
+[2025-10-07 13:44:55][INFO] updating map 'overworld': 91.13% (ETA: 3 minutes)
+[2025-10-07 13:45:05][INFO] updating map 'overworld': 91.365% (ETA: 4 minutes)
+[2025-10-07 13:45:15][INFO] updating map 'overworld': 93.447% (ETA: 3 minutes)
+[2025-10-07 13:45:25][INFO] updating map 'overworld': 93.743% (ETA: 3 minutes)
+[2025-10-07 13:45:35][INFO] updating map 'overworld': 95.642% (ETA: 3 minutes)
+[2025-10-07 13:45:45][INFO] updating map 'overworld': 96.566% (ETA: 2.0 minutes)
+[2025-10-07 13:45:55][INFO] updating map 'overworld': 96.706% (ETA: 2 minutes)
+[2025-10-07 13:46:05][INFO] updating map 'overworld': 98.587% (ETA: 46 seconds)
+[2025-10-07 13:46:06][INFO] Your maps are now all up-to-date!
+[2025-10-07 13:46:06][INFO] Stopping...
+[2025-10-07 13:46:06][INFO] Saving...
+[2025-10-07 13:46:06][INFO] Stopped.
