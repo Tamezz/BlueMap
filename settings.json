@@ -1,1 +1,20 @@
-{"version":"5.12","useCookies":true,"defaultToFlatView":false,"resolutionDefault":1.0,"minZoomDistance":5,"maxZoomDistance":100000,"hiresSliderMax":500,"hiresSliderDefault":100,"hiresSliderMin":0,"lowresSliderMax":7000,"lowresSliderDefault":2000,"lowresSliderMin":500,"mapDataRoot":"maps","liveDataRoot":"maps","maps":["overworld"],"scripts":[],"styles":[]}
+{
+  "version": "5.12",https://github.com/Tamezz/bluemap/blob/main/settings.json
+  "useCookies": true,
+  "useProgressiveLoading": false,
+  "defaultToFlatView": false,
+  "resolutionDefault": 1.0,
+  "minZoomDistance": 5,
+  "maxZoomDistance": 100000,
+  "hiresSliderMax": 500,
+  "hiresSliderDefault": 100,
+  "hiresSliderMin": 0,
+  "lowresSliderMax": 7000,
+  "lowresSliderDefault": 2000,
+  "lowresSliderMin": 500,
+  "mapDataRoot": "maps",
+  "liveDataRoot": "maps",
+  "maps": ["overworld"],
+  "scripts": [],
+  "styles": []
+}
